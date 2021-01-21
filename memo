@@ -1,0 +1,3 @@
+git checkout -b ブランチ名
+上記のようにコマンドを実行することで、「ブランチを切って、そのブランチに切り替える」ことができます。前述の git branch working と git checkout working をまとめて行うことができて便利なので覚えておきましょう。
+
